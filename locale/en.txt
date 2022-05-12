@@ -68,14 +68,14 @@ panorama_7FA008E1_6B94_DCD0_4193_41D35EC8ACBB.label = menu_centro
 video_A7D2D79C_B79B_2044_41E5_F503196DBBBA.label = pergunta_atendimento
 
 ### Video
-videores_B8D6C455_B7CB_3952_41C1_5BD6D97D1F40.url = media/media_A592835B_B78D_20CC_41D8_5F994B3F57B5_en.mp4
-videores_B8D6C455_B7CB_3952_41C1_5BD6D97D1F40.posterURL = media/media_A592835B_B78D_20CC_41D8_5F994B3F57B5_poster_en.jpg
-videores_B8E8B520_B7CB_38F3_41D3_A06224804293.url = media/media_A6CCFD69_B78D_60CD_41E5_9DC2AFD1C4F7_en.mp4
-videores_B8E8B520_B7CB_38F3_41D3_A06224804293.posterURL = media/media_A6CCFD69_B78D_60CD_41E5_9DC2AFD1C4F7_poster_en.jpg
-videores_B8EB44A3_B7CB_39F5_41D4_EEB9F5E66509.url = media/media_A6DD0A4E_B78D_20C4_41D4_5BDCC1CBA013_en.mp4
-videores_B8EB44A3_B7CB_39F5_41D4_EEB9F5E66509.posterURL = media/media_A6DD0A4E_B78D_20C4_41D4_5BDCC1CBA013_poster_en.jpg
-videolevel_B8D4F436_B7CB_38DE_41D8_503A24372E8F.url = media/video_A7D2D79C_B79B_2044_41E5_F503196DBBBA_en.mp4
-videolevel_B8D4F436_B7CB_38DE_41D8_503A24372E8F.posterURL = media/video_A7D2D79C_B79B_2044_41E5_F503196DBBBA_poster_en.jpg
+videores_A695603B_B7E7_BF8A_41B7_537A3BF80FA8.url = media/media_A592835B_B78D_20CC_41D8_5F994B3F57B5_en.mp4
+videores_A695603B_B7E7_BF8A_41B7_537A3BF80FA8.posterURL = media/media_A592835B_B78D_20CC_41D8_5F994B3F57B5_poster_en.jpg
+videores_A69150F8_B7E7_A095_41A8_72F9F3AFEC5D.url = media/media_A6CCFD69_B78D_60CD_41E5_9DC2AFD1C4F7_en.mp4
+videores_A69150F8_B7E7_A095_41A8_72F9F3AFEC5D.posterURL = media/media_A6CCFD69_B78D_60CD_41E5_9DC2AFD1C4F7_poster_en.jpg
+videores_A6901093_B7E7_A09A_41B7_EB043BD8F4FC.url = media/media_A6DD0A4E_B78D_20C4_41D4_5BDCC1CBA013_en.mp4
+videores_A6901093_B7E7_A09A_41B7_EB043BD8F4FC.posterURL = media/media_A6DD0A4E_B78D_20C4_41D4_5BDCC1CBA013_poster_en.jpg
+videolevel_A6976FF0_B7E7_A095_41E6_3D98C8C6D70F.url = media/video_A7D2D79C_B79B_2044_41E5_F503196DBBBA_en.mp4
+videolevel_A6976FF0_B7E7_A095_41E6_3D98C8C6D70F.posterURL = media/video_A7D2D79C_B79B_2044_41E5_F503196DBBBA_poster_en.jpg
 
 ## Right Click Menu
 
@@ -85,8 +85,8 @@ PlayerMenuItem_B9C0E392_AD98_B710_41D5_8223D891D513.label = VR2WORK
 ## Skin
 
 ### Multiline Text
-HTMLText_B4EAEDD0_9515_F219_41D2_A035469329FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 3px rgba(0,0,0,1);text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Be Vietnam Pro Medium';"><B>Puntos: {{quiz.score1.score}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 3px rgba(0,0,0,1);text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Be Vietnam Pro Medium';"><B>Tarjetas Vistas : {{quiz.score2.score}}/{{quiz.score2.score.total}}</B></SPAN></SPAN></DIV></div>
-HTMLText_86F70CF2_950C_F219_41D3_332FDD14BE5A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Be Vietnam Pro Medium';"><B>Puntos: {{quiz.score1.score}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Be Vietnam Pro Medium';"><B>Tarjetas Vistas : {{quiz.score2.score}}/{{quiz.score2.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_B4EAEDD0_9515_F219_41D2_A035469329FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 3px rgba(0,0,0,1);text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Be Vietnam Pro Medium';"><B>Pontos: {{quiz.score1.score}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 3px rgba(0,0,0,1);text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Be Vietnam Pro Medium';"><B>Cartões Vistos : {{quiz.score2.score}}/{{quiz.score2.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_86F70CF2_950C_F219_41D3_332FDD14BE5A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Be Vietnam Pro Medium';"><B>Pontos: {{quiz.score1.score}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,1);text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Be Vietnam Pro Medium';"><B>Cartões Vistos: {{quiz.score2.score}}/{{quiz.score2.score.total}}</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
