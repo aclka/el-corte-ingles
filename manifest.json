@@ -37,8 +37,8 @@
   }
  ],
  "name": "El Corte Inglés",
- "display": "fullscreen",
  "theme_color": "#000000",
- "background_color": "#000000",
- "start_url": "index.htm?installed=true"
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
+ "background_color": "#000000"
 }
