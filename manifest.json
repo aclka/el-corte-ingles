@@ -1,4 +1,6 @@
 {
+ "background_color": "#000000",
+ "name": "El Corte Inglés",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "El Corte Inglés",
  "display": "fullscreen",
- "background_color": "#000000",
- "theme_color": "#000000",
- "start_url": "index.htm?installed=true"
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#000000"
 }
